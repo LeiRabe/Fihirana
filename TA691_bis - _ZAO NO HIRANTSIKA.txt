@@ -1,0 +1,112 @@
+﻿﻿'ZAO NO HIRANTSIKA
+
+1
+(Feo 1,2,3) 'Zao no hirantsika
+Ry tanoran'i Jeso
+(Feo 4) 'Zao ry tanoran'i Jeso
+(Feo 1,2,3) Mba ho iray (2)
+(Feo 4) Mba ho iray,
+Mba ho iray, iray
+(Feo 1,2,3) Tsofy mafy ny mozika
+Mba hanako hoe :
+(Feo 4) Tsofy mafy
+Mba hanako hoe :
+(Feo 1) Mba ho iray ny hira
+Hiraisanay
+(Feo 2,3,4) Mba ho iray ny hira
+Hiraisanay, hiray
+(Feo 1) Mba ho iray, iray,
+Ny hira hiraisanay (3)
+(Feo 2,3,4) Mba ho iray ny hira
+Hiraisanay (3)
+(Feo 1,2,3,4) Ka ho tena iray.
+
+ISAN'ANDININY :
+(Feo 4) Ka ho tanora hampiray
+(Feo 1) Ho tanora
+(Feo 2,3) Ho tanora hampiray
+(Feo 1) Hampiray ny tanindrazanao
+(Feo 2,3,4) Hampiray ny tanindrazanaohiray
+(Feo 4) Ka isan'ora hampiray
+(Feo 1) Isan'ora
+(Feo 2,3) Isan'ora hampiray
+(Feo 1,2,3,4) Hampiray izao tontolo izao
+(Feo 1) Mba ho iray ny hira hiraisanay
+(Feo 2,3,4) Mba ho iray ny hira
+Hiraisanay, hiray
+(Feo 1) Mba ho iray, iray,
+No hira hiraisanay (3)
+(Feo 2,3,4) Mba ho iray ny hira
+Hiraisanay (3)
+(Feo 1,2,3,4) Ka ho tena iray.
+
+2
+(Feo 1,2,3) 'Zao no tarigetrantsika
+Anio sy ho doria,
+(Feo 4) 'Zao no antsika
+Ho doria,
+(Feo 1,2,3) Mba ho iray (2)
+(Feo 4) Mba ho iray,
+Mba ho iray, iray.
+(Feo 1,2,3) Ka tsy hisy hifanditra
+Fa hifankatia,
+(Feo 4) Ka tsy hisy
+Fa hifankatia
+(Feo 1) Ka ho iray ho tena
+Vala iray
+(Feo 2,3,4) Ka ho iray ho tena vala
+iray, iray
+(Feo 1) Ka ho iray, iray,
+Ho tena vala iray (3)
+(Feo 2,3,4) Ka ho iray tena vala
+iray (3)
+(Feo 1,2,3,4) Ka ho tena iray.
+Ho tanora, sns.
+
+3
+(Feo 1,2,3) Ny faneva
+Hasandratsika,
+Ry tanora ô,
+(Feo 4) Ny faneva,
+Ry tanora ô,
+(Feo 1,2,3) Mba ho iray (2)
+(Feo 4) Mba ho iray,
+Mba ho iray, iray.
+(Feo 1,2,3) Ka na misy rà mandriaka
+Sy akora ao,
+(Feo 4) Ka na misy
+Ny akora ao,
+(Feo 1) Dia ho iray
+Ny tafiky ny Ray
+(Feo 2,3,4) Dia ho iray ny tafiky
+Ny Ray, iray
+(Feo 1) Dia ho iray, iray,
+Ny tafiky ny Ray (3)
+(Feo 2,3,4) Dia ho iray ny tafiky
+Ny Ray (3)
+(Feo 1,2,3,4) Ka ho tena iray.
+Ho tanora, sns.
+
+4
+(Feo 1,2,3) Na mandeha
+Mamakivaky izao
+Tontolo izao,
+(Feo 4) Na mamak'izao
+Tontolo izao,
+(Feo 1,2,3) Dia ho iray (2)
+(Feo 4) Dia ho iray,
+Dia ho iray, iray
+(Feo 1,2,3) fa nyTompo no
+Mitaky ny firaisanao,
+(Feo 4) fa nyTompo
+Ny firaisanao,
+(Feo 1) Mba ho iray,
+Ny tànana hifandray
+(Feo 2,3,4) Mba ho iray,
+ny tànana hifandray, iray.
+(Feo 1) Mba ho iray, iray,
+Ny tànana hifandray (3)
+(Feo 2,3,4) Mba ho iray ny tànana
+Hifandray (3)
+(Feo 1,2,3,4) Ka ho tena iray.
+Ho tanora, sns.

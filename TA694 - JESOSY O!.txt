@@ -1,0 +1,131 @@
+﻿JESOSY ô !
+
+1
+(Feo tokana) Jesosy ô
+(Feo 1,2,3) Jesosy ô, Jesosy ô
+(Feo 4) Jesosy ô, Jesosy ô 
+Mba henoy,
+Mba henoy
+Ô ! mba henoy
+(Feo 1,2,3) Ô ! mba henoy,
+Ô ! mba henoy
+(Feo tokana) Ô ! mba henoy,
+Ka aza afoy ny ondrinao
+(Feo 1,2,3) Ka aza afoy,
+Ka aza afoy ny ondrinao
+(Feo tokana) He ! mitalaho
+(Feo 1,2,3) He ! mitalaho
+He ! mitalaho
+(Feo 4) He ! mitalaho
+He ! mitalaho aminao, aminao
+(Feo tokana)  Eo aminao
+(Feo 1,2,3) Eo aminao, eo aminao
+(Feo 4) Eo aminao ka afaho
+Mba afaho
+(Feo tokana) Ka mba afaho
+Ny ondrinao
+(Feo 1,2,3) Ka mba afaho,
+Ka mba afaho, ny ondrinao
+(Feo 4) Ka mba afaho,
+Mba afaho, ny ondrinao,
+Ny ondrinao.
+
+ISAN'ANDININY :
+(Feo 1) Eny, eo aminao
+(Feo 2,3,4) :,: Eo aminao,
+Eo aminao :,:
+(Feo 1) Misy, misy ny soa Jeso
+(Feo 2,3,4) :,: Misy ny soa, misy ny soa :,:
+(Feo 1) Eny, eo aminao Jeso
+(Feo 2,3,4) Eo aminao,
+Eo aminao,
+Eo aminao,
+Eo aminao misy hery tsitoha
+(Feo 1) Misy hery tsitoha.
+(Feo 2,3,4) Eo aminao,
+Aminao misy soa
+Misy hery tsitoa
+(Feo 1) Jesosy ô,
+(Feo 2,3,4) Aminao Jeso ô,
+Jesosy ô,
+(Feo 4) Aminao Jeso ô,
+Jesosy ô, mba henoy,
+Mba henoy
+(Feo 1) Ô ! mba henoy,
+(Feo 2,3) Ô ! mba henoy, ô,
+Mba henoy
+(Feo 4) Ô ! mba henoy,
+Ka afaho, mba afaho
+(Feo 1) Ka mba afaho
+Ny ondrinao.
+(Feo 2,3,4) Ka mba afaho
+Ny ondrinao,
+Ny ondrinao.
+
+2
+(Feo tokana) Jesosy ô
+(Feo 1,2,3) Jesosy ô, Jesosy ô
+(Feo 4) Jesosy ô, Jesosy ô 
+Mba vonjeo,
+Mba vonjeo
+(Feo tokana) Ô ! mba vonjeo
+(Feo 1,2,3) Ô ! mba vonjeo, ô,
+Mba vonjeo
+(Feo 4) Ô ! mba vonjeo,
+Ka atreho,
+Mba atreho
+(Feo tokana) Ka mba atreho,
+Ny olonao
+(Feo 1,2,3) Ka mba atreho,
+Ka mba atreho,
+Ny olonao
+(Feo 4) Ka mba atreho,
+Ny olonao
+Ny olonao mba atreho Jeso
+(Feo tokana) Eny, ekeo,
+(Feo 1,2,3) Eny, ekeo, eny ekeo
+(Feo 4) Eny, ekeo, eny ekeo
+Dia fefeo
+(Feo tokana) Dia mba fefeo
+(Feo 1,2,3) Dia mba fefeo,
+Dia mba fefeo
+(Feo 4) Mba fefeo dia mba fefeo
+Ka omeo
+(Feo tokana) Ary omeo ny herinao
+(Feo 1,2,3) Ary omeo, ary omeo
+Ny herinao, ny herinao.
+(Feo 4) Ary omeo, ary omeo
+Ny herinao, ny herinao.
+Eo aminao, sns.
+
+3
+(Feo tokana) Jesosy ô
+(Feo 1,2,3) Jesosy ô, Jesosy ô
+(Feo 4) Jesosy ô, Jesosy ô 
+Mba avia, mba avia
+(Feo tokana) Ô ! mba avia
+(Feo 1,2,3) Ô ! mba avia, ô,
+Mba avia
+(Feo 4) Ô ! mba avia ka valio
+Ka valio
+(Feo tokana) Ka mba valio izahay
+(Feo 1,2,3) Ka mba valio,
+Ka mba valio izahay
+(Feo 4) Ka mba valio izahay,
+Ny vavakay mba valio Jeso
+(Feo tokana) Eny, anio,
+(Feo 1,2,3) Eny, anio, eny anio,
+(Feo 4) Eny, anio, eny anio,
+Dieny anio
+(Feo tokana) Dieny anio
+(Feo 1,2,3) Dieny anio, dieny anio
+(Feo 4) Eny anio, dieny anio
+Ô ampio,
+(Feo tokana) Ô mba ampio ny herinao
+(Feo 1,2,3) Ô mba ampio, ô,
+Mba ampio ny herinao,
+Ny herinao
+(Feo 4) Mba ampio, ô,
+Mba ampio ny herinao,
+Ny herinao
+Eo aminao, sns.
